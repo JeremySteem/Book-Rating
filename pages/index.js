@@ -72,7 +72,6 @@ const validateForm = () => {
 }
 
 // The new FavouriteBooks as a function
-/*
 function FavouriteBooks(props) {
   const [search, setSearch] = useState("")
   const filterBooks = (event) => {
@@ -132,7 +131,7 @@ function FavouriteBooks(props) {
         </TableBody>
       </Table>
   </Paper>
-} */
+} 
 
   return (
     <div>
